@@ -21,6 +21,8 @@
 /projects/**/Assets/Models~/*
 /projects/**/Library/*
 /projects/**/Logs/*
+/projects/**/Builds/*
+/projects/**/Recordings/*
 /projects/**/Temp/*
 /projects/**/UserSettings/*
 /projects/**/obj/*
