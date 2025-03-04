@@ -56,5 +56,6 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "GaussianExample-URP.sln"
+    "dotnet.defaultSolution": "GaussianExample-URP.sln",
+    "dotnet.preferCSharpExtension": true
 }
