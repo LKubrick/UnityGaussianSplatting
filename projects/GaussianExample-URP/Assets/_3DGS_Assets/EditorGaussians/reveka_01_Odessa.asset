@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33b71fae31e6c7d438e8566dc713e666, type: 3}
+  m_Name: reveka_01_Odessa
+  m_EditorClassIdentifier: 
+  m_FormatVersion: 20231020
+  m_SplatCount: 507440
+  m_BoundsMin: {x: -237.91298, y: -240.4946, z: -246.10745}
+  m_BoundsMax: {x: 242.08702, y: 239.5054, z: 233.89255}
+  m_DataHash:
+    serializedVersion: 2
+    Hash: 77cdcf91a272e6a9ab86ea57409ff5d6
+  m_PosFormat: 2
+  m_ScaleFormat: 3
+  m_SHFormat: 6
+  m_ColorFormat: 2
+  m_PosData: {fileID: 4900000, guid: 8a7ed7b57c18c8345a881d05f359137a, type: 3}
+  m_ColorData: {fileID: 4900000, guid: 52c9776bd91e3b04196958ec5f835df6, type: 3}
+  m_OtherData: {fileID: 4900000, guid: 75a432c5323ed11438786f8ed0d0698f, type: 3}
+  m_SHData: {fileID: 4900000, guid: 63b559784ea254449b16847ae1d7ef7c, type: 3}
+  m_ChunkData: {fileID: 4900000, guid: d088d4ab8a86d224ebd3e4f8ce99c890, type: 3}
+  m_Cameras: []
